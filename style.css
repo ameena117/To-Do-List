@@ -1,8 +1,19 @@
-body{
+
+.todo-list{
+    background-color: rgb(198, 251, 251);
     margin: auto;
     padding: 20px;
     width: 50%;
     box-sizing: content-box;
+}
+form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input[type="text"]{
+    width: 70%;    
+    height: 20px;
 }
 
 .list{
