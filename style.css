@@ -5,6 +5,8 @@
     padding: 20px;
     width: 50%;
     box-sizing: content-box;
+    border: solid 0.1px cyan;
+    border-radius: 10px;
 }
 form{
     display: flex;
