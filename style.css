@@ -15,13 +15,23 @@ form{
 }
 input[type="text"]{
     width: 70%;    
-    height: 20px;
+    height: 25px;
+}
+
+input[type="submit"]{
+    width: 20%;
+    height: 25px;
 }
 
 .list{
     list-style: none;
     text-align: start;
     list-style-position: outside;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(42, 44, 44);
 }
 .checked{
     text-decoration: line-through;
